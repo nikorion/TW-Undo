@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/n1co-g/Undo",
+	"description": "Return to previous draft edit state functionality",
+	"author": "n1co-g",
+	"version": "0.0.1",
+	"core-version": ">=5.3.3",
+	"source": "https://github.com/n1co-g/TW-Undo",
+	"plugin-type": "plugin"
+}
